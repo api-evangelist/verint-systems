@@ -30,6 +30,11 @@ apis:
 common:
   - type: Website
     url: https://www.verint.com
+  - type: Integrations
+    url: https://www.verint.com/partners/
+integrations:
+  - name: Engage26 mobile banner
+  - name: Engage26 Register Now desktop card
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
