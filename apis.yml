@@ -28,6 +28,10 @@ apis:
     description: >-
       The Verint Systems API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/verint
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/verint
   - type: Website
     url: https://www.verint.com
   - type: Integrations
