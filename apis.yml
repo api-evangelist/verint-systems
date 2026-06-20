@@ -2,7 +2,7 @@ aid: verint-systems
 url: https://raw.githubusercontent.com/api-evangelist/verint-systems/refs/heads/main/apis.yml
 name: Verint Systems
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Analytics
   - Security
@@ -19,7 +19,7 @@ apis:
       - Analytics
       - Security
       - Customer Engagement
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.verint.com
     humanURL: https://developer.verint.com
     properties:
