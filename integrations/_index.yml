@@ -52,3 +52,15 @@
     builder: unknown (not in the directory record)
   status: not-a-workflow
   arazzo: null
+- slug: verint-systems-talkdesk-own
+  label: Talkdesk (own)
+  partner: talkdesk
+  partner_name: Talkdesk (own)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://appconnect.talkdesk.com/apps/verint-monet-workforce-management
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
